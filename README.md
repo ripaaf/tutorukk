@@ -7,4 +7,4 @@ this is tutorial how to make a cashier application using laravel.
 download the word and follow step by step
 
 >[!NOTE]
->Note : *the word is half in indonesian language but mostly in english
+>Note : ***the word is half in indonesian language but mostly in english**
